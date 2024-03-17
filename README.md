@@ -4,15 +4,17 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-  </a>
+    <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayidx&theme=midnight-purple&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+      </div>
     <br>
 <p><a href="https://youtu.be/Tct7qR2bhHA?si=01KN1R03u5VW0IAF">- 𝑩𝒆𝒓𝒅𝒖𝒂 𝑺𝒂𝒋𝒂 - 𝙿𝚊𝚢𝚞𝚗𝚐 𝚃𝚎𝚍𝚞𝚑</a><p>
   
 </div>
     <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://64.media.tumblr.com/8a5d02f20315a95a3960551d5efb0f2f/tumblr_n1m3mlzY421r1xmp6o3_640.gif">
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ~ 🦊 </h2>
