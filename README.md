@@ -19,7 +19,7 @@
       <div>
       <h2 align="center"> 🦊 ~ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ~ 🦊 </h2>
         <div align="center">
-      <img src="https://media.tenor.com/MXdLda7_c_kAAAAd/anime-anime-girl.gif" align="right" width="350px">
+      <img src="https://media.tenor.com/MXdLda7_c_kAAAAd/anime-anime-girl.gif" align="right" width="500px">
         </div>
       <li>
        <b>Name:</b> Farid Indrawan</li>
