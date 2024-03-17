@@ -65,10 +65,11 @@ below I also like to add relationship:></p>
 <div>
 <h2 align="center">~ 𝚃𝚑𝚊𝚗𝚔 𝙵𝚘𝚛 𝚁𝚎𝚊𝚍𝚒𝚗𝚐! ~</h2>
 <div align="center">
-<img src="https://giphy.com/embed/nBugNKFDJ9aT2hk3Gf">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw1OWZ0czV3djMya25tNmk4OGJ4NWE3bHkza3hnM2d3YTV2Z3pmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBugNKFDJ9aT2hk3Gf/giphy.gif">
 </div>
 <hr>
 </div>
 </div>
     </center>
 </body>
+
