@@ -3,17 +3,19 @@
         <h1 align="center">~ 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚃𝚘 𝙼𝚢 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 ~</h1>
         <br>
         <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayidx&theme=midnight-purple&hide_border=false">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+            <div align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayidx&theme=midnight-purple&hide_border=false">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayidx&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+            </div>
+            <br>
+            <p><a href="https://youtu.be/Tct7qR2bhHA?si=01KN1R03u5VW0IAF">- 𝑩𝒆𝒓𝒅𝒖𝒂 𝑺𝒂𝒋𝒂 - 𝙿𝚊𝚢𝚞𝚗𝚐 𝚃𝚎𝚍𝚞𝚑</a></p>
         </div>
-        <br>
-        <p><a href="https://youtu.be/Tct7qR2bhHA?si=01KN1R03u5VW0IAF">- 𝑩𝒆𝒓𝒅𝒖𝒂 𝑺𝒂𝒋𝒂 - 𝙿𝚊𝚢𝚞𝚗𝚐 𝚃𝚎𝚍𝚞𝚑</a></p>
         <div align="center">
             <img src="https://64.media.tumblr.com/8a5d02f20315a95a3960551d5efb0f2f/tumblr_n1m3mlzY421r1xmp6o3_640.gif">
         </div>
         <div>
-            <h2 align="center">🦊 ~ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ~ 🦊</h2>
+            <h2 align="center"> 🦊 ~ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ~ 🦊 </h2>
             <div align="center">
                 <img src="https://media.tenor.com/MXdLda7_c_kAAAAd/anime-anime-girl.gif" align="right">
             </div>
@@ -43,12 +45,15 @@
                 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
                 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
                 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+                <br>
                 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
                 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
                 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+                <br>
                 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
                 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
                 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+                <br>
                 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
                 <br><br>
@@ -57,4 +62,4 @@
             <br>
             <h2 align="center">📝 ~ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 ~ 📝</h2>
             <div align="center">
-               
+                <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5nd2syazN3ZnVnbmx0Z
