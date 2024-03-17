@@ -54,7 +54,7 @@ I love learning the smell of technology. It inspires me to be an engagement soft
 <br>
 <h2 align="center">           📝 ~ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 ~ 📝</h2>
   <div align="center">
-<img src="https://giphy.com/embed/d1E2VyhFsxawRbeo" align="right" width="373.5px" height="208.5px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5nd2syazN3ZnVnbmx0Z2FldG5zejhwc3l5djl0eTh3NW1qMWhsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">If you want to get acquainted I can contact <br>
@@ -72,4 +72,3 @@ below I also like to add relationship:></p>
 </div>
     </center>
 </body>
-
