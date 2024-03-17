@@ -41,7 +41,7 @@
       <div>
        <br>
       <p>
-        <h2 margin-left="30px" align="center">... ~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
+        <h2 margin-left="30px" align="center">~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
         <div align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRvbWxvem1rNTQ4MG9qeHg4NXE5ZmdmOWtsZG8yYms3M2JhdG51cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N6wBPWsPyifYc/giphy.gif" align="right">
         </div>
